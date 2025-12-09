@@ -1,6 +1,6 @@
 #  **LLM Reliability Benchmark (CRS)**
 
-**Official implementation for the AAAI 2026 paper:**
+**Official Implementation for the AAAI 2026 paper:**
 
 ### **Beyond Hallucinations: A Composite Score for Measuring Reliability in Open-Source Large Language Models**
 
@@ -10,7 +10,7 @@ CRS reveals failure modes that accuracy alone cannot capture, helping researcher
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── src/crs/                 # Core CRS implementation
@@ -53,7 +53,7 @@ data/<dataset_name>/
 
 ---
 
-## ⚡ Quick Start
+## Quick Start
 
 ### 1. Install dependencies
 
@@ -118,7 +118,7 @@ Submit a pull request or open an issue with suggestions.
 
 ---
 
-## 📬 Contact
+##  Contact
 
 For questions about CRS or the paper:
 
@@ -126,5 +126,4 @@ For questions about CRS or the paper:
 Virginia Tech, ECE Department
 📧 [rohits25@vt.edu](mailto:rohits25@vt.edu)
 
-# CRS
 # CRS
